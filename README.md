@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Exploring the intersection of AI and technology and human longevity. 
+- ⚡ Fun fact: I enjoy all things auto/moto. racing, wrenching, or taking long drives/rides.
 <!--
 **eitanshay/EitanShay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
